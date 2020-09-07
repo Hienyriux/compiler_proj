@@ -20,7 +20,7 @@ Project of Nanjing University's Principles and Techniques of Compilers course in
 + 中间代码优化(公共子表达式, 死代码消除, 常量传播)
 + 寄存器分配优化(活跃变量分析 + 干涉图染色算法)
 ### 运行方式:
-+ make
++ 在Code目录下make
 + ./parser arg1 arg2 arg3
     + arg1: 分析的源代码
     + arg2: 中间代码输出
