@@ -18,7 +18,7 @@ Project of Nanjing University's Principles and Techniques of Compilers course in
 + 语法分析: GNU Bison
 ### TODO:
 + 中间代码优化(公共子表达式, 死代码消除, 常量传播)
-+ 寄存器分配优化(活跃变量分析 + 图染色算法)
++ 寄存器分配优化(活跃变量分析 + 干涉图染色算法)
 ### 运行方式:
 + make
 + ./parser arg1 arg2 arg3
